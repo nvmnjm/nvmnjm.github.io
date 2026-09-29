@@ -1,0 +1,742 @@
+{
+  "name": "Najam Gohar",
+  "credentials": "MBBS",
+  "role": "Postdoctoral Fellow, Section of Digestive Diseases",
+  "institution": "Yale School of Medicine",
+  "location": "New Haven, Connecticut",
+  "tagline": "Physician-researcher working on cardiovascular, cardiometabolic, and metabolic liver disease outcomes with real-world clinical data.",
+  "updated": "September 2026",
+  "email": "najam.gohar@yale.edu",
+  "socials": [
+    {
+      "key": "email",
+      "label": "Email",
+      "url": "mailto:najam.gohar@yale.edu",
+      "display": "najam.gohar@yale.edu"
+    },
+    {
+      "key": "yale",
+      "label": "Yale Profile",
+      "url": "https://medicine.yale.edu/profile/najam-gohar/",
+      "display": "medicine.yale.edu/profile/najam-gohar"
+    },
+    {
+      "key": "linkedin",
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/najamgohar",
+      "display": "linkedin.com/in/najamgohar"
+    },
+    {
+      "key": "scholar",
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?hl=en&user=_-4gO_kAAAAJ",
+      "display": "scholar.google.com/citations?user=_-4gO_kAAAAJ"
+    },
+    {
+      "key": "orcid",
+      "label": "ORCID",
+      "url": "https://orcid.org/0000-0003-0278-3996",
+      "display": "0000-0003-0278-3996"
+    }
+  ],
+  "profile": "Najam Gohar is a physician-researcher and Postdoctoral Fellow at Yale School of Medicine with experience in cardiovascular outcomes research, clinical epidemiology, real-world evidence, large-scale health data, multi-omics, and scientific writing. He uses Python, R, SQL, and statistical software across All of Us, Truveta, TriNetX, UK Biobank, HCUP NIS, and CDC WONDER.",
+  "interests": [
+    "Cardiovascular and cardiometabolic outcomes",
+    "Metabolic liver disease",
+    "Predictive modeling",
+    "Multimodal clinical data",
+    "Genomics, transcriptomics, and proteomics",
+    "Evidence synthesis"
+  ],
+  "experience": [
+    {
+      "org": "Yale School of Medicine, Section of Digestive Diseases",
+      "role": "Postdoctoral Fellow",
+      "dates": "Jul 2026 – Present",
+      "location": "New Haven, Connecticut",
+      "bullets": [
+        "Analyze electronic health record, survey, physical-measurement, genomic, RNA-seq, and proteomic data in the All of Us Researcher Workbench using Python, R, SQL, Jupyter notebooks, and the OMOP Common Data Model.",
+        "Build longitudinal cohorts and phenotype definitions in Truveta; perform data cleaning, propensity-score matching, survival analysis, and predictive modeling.",
+        "Support metabolic dysfunction-associated steatotic liver disease and chronic liver disease studies through quantitative and multi-omic analysis, bench-based research, literature review, manuscript development, and scientific presentations.",
+        "Select and learn software according to each research question, adapting workflows across data platforms and statistical environments."
+      ]
+    },
+    {
+      "org": "Multicenter Research Collaborations",
+      "role": "Clinical Outcomes Research Collaborator",
+      "dates": "2023 – Present",
+      "location": "",
+      "bullets": [
+        "Design and conduct retrospective cohort studies using TriNetX, HCUP NIS, CDC WONDER, and other large health datasets across cardiovascular, cardiometabolic, gastrointestinal, hematologic, and oncologic conditions.",
+        "Define exposures, outcomes, covariates, and subgroups; conduct regression, propensity-score, time-to-event, and sensitivity analyses; and translate findings into manuscripts and conference abstracts.",
+        "Coordinate collaborative projects from research-question development through analysis, interpretation, journal submission, and responses to peer review."
+      ]
+    },
+    {
+      "org": "Lahore General Hospital and Pakistan Institute of Neurosciences",
+      "role": "Internship",
+      "dates": "Jun 2025 – Jun 2026",
+      "location": "Lahore, Pakistan",
+      "bullets": []
+    },
+    {
+      "org": "Aga Khan University Hospital",
+      "role": "Clinical Elective",
+      "dates": "Jul 2024",
+      "location": "Karachi, Pakistan",
+      "bullets": []
+    }
+  ],
+  "education": [
+    {
+      "org": "Ameer-ud-Din Medical College",
+      "degree": "Bachelor of Medicine, Bachelor of Surgery (MBBS)",
+      "dates": "2020 – 2025",
+      "location": "Lahore, Pakistan"
+    },
+    {
+      "org": "University of the Punjab",
+      "degree": "Bachelor of Science in English",
+      "dates": "2023",
+      "location": "Lahore, Pakistan"
+    }
+  ],
+  "skills": [
+    {
+      "label": "Programming and analysis",
+      "value": "Python, R, SQL, Stata, SPSS, and Joinpoint"
+    },
+    {
+      "label": "Clinical data platforms",
+      "value": "All of Us Researcher Workbench, Truveta, TriNetX, UK Biobank, HCUP National Inpatient Sample, and CDC WONDER"
+    },
+    {
+      "label": "Biomedical data",
+      "value": "Electronic health records, administrative data, surveys, physical measurements, genomics, RNA-seq, proteomics, genotype-linked clinical outcomes, and multimodal clinical data"
+    },
+    {
+      "label": "Methods",
+      "value": "Retrospective cohort design, phenotype definition, propensity-score matching, logistic and linear regression, Kaplan-Meier and survival analysis, subgroup and sensitivity analyses, predictive modeling, and model evaluation"
+    },
+    {
+      "label": "Evidence synthesis",
+      "value": "Systematic reviews, diagnostic test accuracy studies, meta-analysis, and meta-regression using R, RevMan, and PRISMA methods"
+    },
+    {
+      "label": "Scientific communication",
+      "value": "Manuscript development, conference abstracts, presentations, publication-ready tables and figures, journal submissions, and responses to reviewers"
+    },
+    {
+      "label": "Technical adaptability",
+      "value": "Rapid evaluation and adoption of new software, analytical tools, and research platforms according to project needs"
+    }
+  ],
+  "service": [
+    {
+      "org": "IHME Global Burden of Disease Study",
+      "role": "Senior Collaborator",
+      "dates": "Ongoing",
+      "detail": "Contribute to collaborative population-health research on global disease burden and health trends."
+    },
+    {
+      "org": "Frontiers and Springer Nature journals",
+      "role": "Ad Hoc Peer Reviewer",
+      "dates": "Ongoing",
+      "detail": "Review manuscripts for Frontiers in Immunology, Frontiers in Medicine, Scientific Reports, Frontiers in Nutrition, and Frontiers in Cellular and Infection Microbiology."
+    },
+    {
+      "org": "PublicationHub KSA",
+      "role": "Research Mentor",
+      "dates": "Ongoing",
+      "detail": "Mentor early-career researchers in study design, database analysis, scientific writing, and publication development."
+    }
+  ],
+  "mentees": [],
+  "leadership": [
+    {
+      "org": "AMCotomy Surgery Interest Group, Ameer-ud-Din Medical College",
+      "role": "Co-founder",
+      "dates": "Jun 2024 – Mar 2025",
+      "detail": "Organized the college’s inaugural suturing workshop for more than 300 medical students and secured donated materials and sponsorship support."
+    },
+    {
+      "org": "Ameer-ud-Din Society of Research",
+      "role": "Executive Finance Head",
+      "dates": "Apr 2023 – Mar 2025",
+      "detail": "Managed budgets and financial operations for research workshops and mentorship activities."
+    }
+  ],
+  "volunteering": "Held coordination and volunteer roles with the Ameer-ud-Din Patient Welfare Society, Ameer-ud-Din Child Education Program, Blood Donation Society, and Humanity Still Exists medical outreach program.",
+  "languages": [
+    {
+      "lang": "Urdu",
+      "level": "Native"
+    },
+    {
+      "lang": "English",
+      "level": "Near-native professional proficiency"
+    }
+  ],
+  "pub_note": "Author lists are abbreviated for readability. Complete records are available through Google Scholar and ORCID.",
+  "groups": [
+    {
+      "key": "research",
+      "label": "Original Research",
+      "short": "Research",
+      "items": [
+        {
+          "authors": "Qadeer A, Khawar M, Fouad M, Jain S, Pathak P, Muhammad A, Twayana AR, Ikbariah K, Gohar N, et al.",
+          "title": "Pre-Infection COVID-19 Vaccination and Long-Term Cardiovascular Outcomes in Adults Without Preexisting Cardiovascular Disease: A Retrospective Cohort Study",
+          "journal": "Health Science Reports",
+          "year": "2026",
+          "cite": "9(8):e73014",
+          "doi": "10.1002/hsr2.73014"
+        },
+        {
+          "authors": "Qadeer A, Fouad M, Bayomi D, Gohar N, et al.",
+          "title": "Secondary Atrial Fibrillation in Critically Ill Sepsis Patients: Evaluating the Role of Early Oral Anticoagulants in a Retrospective Multi-Center Study",
+          "journal": "Journal of Intensive Care Medicine",
+          "year": "2026",
+          "cite": "Online ahead of print",
+          "doi": "10.1177/08850666261473208"
+        },
+        {
+          "authors": "Ahmed F, Khan S, Gohar N, et al.",
+          "title": "Comparative Outcomes of Direct Oral Anticoagulants Versus Warfarin in Patients With Atrial Fibrillation and Liver Cirrhosis: A Propensity Score-Matched TriNetX Analysis",
+          "journal": "Journal of Thrombosis and Thrombolysis",
+          "year": "2026",
+          "cite": "Online ahead of print",
+          "doi": "10.1007/s11239-026-03359-4"
+        },
+        {
+          "authors": "Ahmed F, Khan S, Shafqat M, Mirza TR, Abdullah M, Gohar N, et al.",
+          "title": "Comparison of the Safety and Effectiveness of Apixaban Versus Rivaroxaban in Acute Venous Thromboembolism: A Propensity-Matched Real-World TriNetX Study With Obesity and Cancer Subgroup Analyses",
+          "journal": "Journal of Clinical Medicine",
+          "year": "2026",
+          "cite": "15(14):5410",
+          "doi": "10.3390/jcm15145410"
+        },
+        {
+          "authors": "Qadeer A, Khalid MB, Syed R, Jain S, Zakaria F, Khan MHA, Gohar N, et al.",
+          "title": "Comparative Real-World Outcomes of Tirzepatide Versus Semaglutide in Patients With Obesity and Type 2 Diabetes: A Retrospective Propensity-Matched Cohort Study",
+          "journal": "Diabetes and Vascular Disease Research",
+          "year": "2026",
+          "cite": "23(3):14791641261465360",
+          "doi": "10.1177/14791641261465360"
+        },
+        {
+          "authors": "Ahmed F, Gohar N, Shafqat M, et al.",
+          "title": "GLP-1 Receptor Agonists or Dual GLP-1/GIP Receptor Agonists Versus SGLT2 Inhibitors in Patients With Atrial Fibrillation and HFpEF: A Propensity-Matched Real-World Analysis",
+          "journal": "Journal of Clinical Medicine",
+          "year": "2026",
+          "cite": "15(13):4992",
+          "doi": "10.3390/jcm15134992"
+        },
+        {
+          "authors": "Ahmed F, Gohar N, Raja HAA, et al.",
+          "title": "Early Rhythm Versus Rate Control in Older Adults With New-Onset Atrial Fibrillation: A Propensity Score-Matched Analysis",
+          "journal": "Journal of Arrhythmia",
+          "year": "2026",
+          "cite": "42(3):e70400",
+          "doi": "10.1002/joa3.70400"
+        },
+        {
+          "authors": "Ahmed F, Khan S, Gohar N, et al.",
+          "title": "Clinical Outcomes of GLP-1 Receptor Agonist and SGLT2 Inhibitor Combination Therapy in Heart Failure: A Real-World Propensity-Matched TriNetX Analysis",
+          "journal": "Biomedicines",
+          "year": "2026",
+          "cite": "14(6):1368",
+          "doi": "10.3390/biomedicines14061368"
+        },
+        {
+          "authors": "Ahmed F, Khan S, Shafqat M, Gohar N, et al.",
+          "title": "Cardiovascular Outcomes With Colchicine in Coronary Artery Disease and HFpEF: A Propensity-Matched TriNetX Analysis",
+          "journal": "Journal of Cardiovascular Development and Disease",
+          "year": "2026",
+          "cite": "13(6):222",
+          "doi": "10.3390/jcdd13060222"
+        },
+        {
+          "authors": "Ahmed F, Gohar N, Hamza M, et al.",
+          "title": "Intracardiac Versus Transesophageal Echocardiography in Left Atrial Appendage Occlusion: Real-World Comparative Effectiveness From a Propensity-Matched Cohort",
+          "journal": "Cardiovascular Ultrasound",
+          "year": "2026",
+          "cite": "24(1):12",
+          "doi": "10.1186/s12947-026-00375-5"
+        },
+        {
+          "authors": "Ahmed F, Khan S, Gohar N, et al.",
+          "title": "Comparative Effectiveness of Finerenone Versus SGLT2 Inhibitors in Patients With HFpEF and CKD: A Real-World Propensity-Matched TriNetX Analysis",
+          "journal": "Biomedicines",
+          "year": "2026",
+          "cite": "14(5):1108",
+          "doi": "10.3390/biomedicines14051108"
+        },
+        {
+          "authors": "Gohar N, Ahmed F, Ahmed H, Altaf MT, et al.",
+          "title": "Malnutrition as a Critical Predictor of In-Hospital Outcomes and Resource Utilization in Heart Failure: A 6-Year Nationwide Analysis",
+          "journal": "BMC Cardiovascular Disorders",
+          "year": "2026",
+          "cite": "26(1):476",
+          "doi": "10.1186/s12872-026-05806-9"
+        },
+        {
+          "authors": "Qadeer A, Fouad M, Khawar M, Khan MH, Gohar N, et al.",
+          "title": "Impact of Peri-Procedural Red Blood Cell Transfusion on Clinical Outcomes in Transcatheter Aortic Valve Replacement: A Propensity-Matched Cohort Study",
+          "journal": "Catheterization and Cardiovascular Interventions",
+          "year": "2026",
+          "cite": "107(6):1835–1846",
+          "doi": "10.1002/ccd.70554"
+        },
+        {
+          "authors": "Ahmed F, Mirza TR, Iftikhar Z, … Gohar N.",
+          "title": "Trends and Disparities in Amyloidosis and Cardiovascular Disease Mortality: A Population-Based Retrospective Study in the United States 1999–2020",
+          "journal": "BMC Cardiovascular Disorders",
+          "year": "2026",
+          "cite": "26(1):184",
+          "doi": "10.1186/s12872-026-05510-8"
+        },
+        {
+          "authors": "Qadeer A, Khawar M, Ghaffar QBA, … Gohar N, et al.",
+          "title": "Impact of P2Y12 Inhibitor Pretreatment on Clinical Outcomes in ST-Segment Elevation Myocardial Infarction Undergoing Percutaneous Coronary Intervention: A Retrospective Cohort Study",
+          "journal": "Catheterization and Cardiovascular Interventions",
+          "year": "2026",
+          "cite": "107(4):1100–1111",
+          "doi": "10.1002/ccd.70449"
+        },
+        {
+          "authors": "Ahmed F, Mirza TR, Eltawansy S, Khan Z, Mashkoor Y, Gohar N, et al.",
+          "title": "Temporal and Demographic Disparities in Mortality Trends for Heart Failure and COPD-Associated Heart Failure in US Adults: A 1999–2020 Analysis of CDC WONDER Data",
+          "journal": "Cardiovascular Pathology",
+          "year": "2025",
+          "cite": "77:107735",
+          "doi": "10.1016/j.carpath.2025.107735"
+        },
+        {
+          "authors": "Ahmed F, Ahmed H, Ishtiaq A, Gohar N, et al.",
+          "title": "Trends and Disparities in Obesity-Related Mortality Among US Adults: A CDC WONDER Analysis 1968–2025",
+          "journal": "Obesity Science and Practice",
+          "year": "2026",
+          "cite": "12(2):e70146",
+          "doi": "10.1002/osp4.70146"
+        },
+        {
+          "authors": "PakSurg Collaborative, including Gohar N.",
+          "title": "Epidemiology and Risk Factors of Surgical Site Infections in Elective Surgeries in Pakistan 2022–2023: A Multicentre Prospective Cohort Study From PakSurg 1",
+          "journal": "The Lancet Regional Health – Southeast Asia",
+          "year": "2026",
+          "cite": "50:100786",
+          "doi": "10.1016/j.lansea.2026.100786"
+        }
+      ]
+    },
+    {
+      "key": "reviews",
+      "label": "Systematic Reviews and Meta-Analyses",
+      "short": "Reviews",
+      "items": [
+        {
+          "authors": "Ahmed F, Haider F, Ali R, Arham M, Gohar N, et al.",
+          "title": "Extended Dual Versus Single Antiplatelet Therapy Following Percutaneous Coronary Intervention: A Bayesian Meta-Analysis and Regression on All-Cause Mortality",
+          "journal": "Catheterization and Cardiovascular Interventions",
+          "year": "2026",
+          "cite": "107(2):510–519",
+          "doi": "10.1002/ccd.70363"
+        },
+        {
+          "authors": "Ahmed F, Haider F, Arham M, Dad A, … Gohar N, et al.",
+          "title": "Comparative Diagnostic Accuracy of Artificial Intelligence-Derived Risk Stratification Versus Conventional Risk Stratification Methods in Pulmonary Hypertension: A Systematic Review and Meta-Analysis",
+          "journal": "Frontiers in Artificial Intelligence",
+          "year": "2025",
+          "cite": "8:1692829",
+          "doi": "10.3389/frai.2025.1692829"
+        },
+        {
+          "authors": "Ahmed F, Haider F, Ali R, Arham M, … Gohar N, et al.",
+          "title": "Comparative Accuracy of Artificial Intelligence Versus Manual Interpretation in Detecting Pulmonary Hypertension Across Chest Imaging Modalities: A Diagnostic Test Accuracy Meta-Analysis",
+          "journal": "Frontiers in Artificial Intelligence",
+          "year": "2026",
+          "cite": "8:1709489",
+          "doi": "10.3389/frai.2025.1709489"
+        },
+        {
+          "authors": "Haroon MM, Ahmad F, Ali R, Haider S, … Gohar N, et al.",
+          "title": "Transcatheter Left Ventricular Restoration in Ischemic Heart Failure and Dilated Cardiomyopathy",
+          "journal": "Catheterization and Cardiovascular Interventions",
+          "year": "2026",
+          "cite": "107(4):898–908",
+          "doi": "10.1002/ccd.70425"
+        },
+        {
+          "authors": "Ahmed F, Ali R, Haider F, Shah HH, Gohar N, et al.",
+          "title": "Efficacy of Ivabradine in Heart Rate Reduction After Cardiac Transplantation: Systematic Review and Meta-Analysis",
+          "journal": "World Journal of Cardiology",
+          "year": "2025",
+          "cite": "17(12):113820",
+          "doi": "10.4330/wjc.v17.i12.113820"
+        },
+        {
+          "authors": "Haider F, Ahmed F, Junaid Y, … Gohar N, et al.",
+          "title": "Direct Oral Anticoagulants Versus Low-Molecular-Weight Heparins for Cancer-Associated Thromboembolism",
+          "journal": "World Journal of Clinical Cases",
+          "year": "2026",
+          "cite": "14(17):118087",
+          "doi": "10.12998/wjcc.v14.i17.118087"
+        },
+        {
+          "authors": "Gohar N, Ejaz Z, Ahmed F, et al.",
+          "title": "Efficacy and Safety of 10-Day Versus 14-Day Bismuth-Containing Quadruple Therapy for Helicobacter pylori Eradication: A Systematic Review and Meta-Analysis",
+          "journal": "JGH Open",
+          "year": "2025",
+          "cite": "9(3):e70143",
+          "doi": "10.1002/jgh3.70143"
+        }
+      ]
+    },
+    {
+      "key": "preprints",
+      "label": "Accepted and Preprints",
+      "short": "Accepted and preprints",
+      "items": [
+        {
+          "authors": "Gohar N, Mubeen S, Hamza M, et al.",
+          "title": "Six-Month Outcomes of Microaxial Flow Pump Support in STEMI-Related Cardiogenic Shock: A Multicenter Real-World Analysis From the TriNetX Research Network",
+          "journal": "BMC Cardiovascular Disorders",
+          "year": "",
+          "cite": "Accepted for publication",
+          "doi": ""
+        },
+        {
+          "authors": "Qadeer A, Gohar N, Maniyar P, et al.",
+          "title": "Addition of Bupropion or Varenicline to Nicotine Replacement Therapy After Acute Coronary Syndrome: A Propensity-Matched Real-World Analysis",
+          "journal": "medRxiv",
+          "year": "2026",
+          "cite": "Preprint",
+          "doi": "10.64898/2026.04.21.26351432"
+        }
+      ]
+    },
+    {
+      "key": "abstracts",
+      "label": "Conference Abstracts",
+      "short": "Abstracts",
+      "items": [
+        {
+          "title": "Unpacking the In-Hospital Multisystem Risks of Cardiac Catheterization in Patients With Hereditary Bleeding Disorders: A National Analysis",
+          "meeting": "American College of Cardiology Scientific Session",
+          "year": "2026",
+          "role": "First author",
+          "doi": "10.1016/j.jacc.2026.02.990"
+        },
+        {
+          "title": "Complications and Outcomes Associated With In-Hospital Mortality Following Transcatheter Mitral Valve Repair for Mitral Regurgitation",
+          "meeting": "American College of Cardiology Scientific Session",
+          "year": "2026",
+          "role": "First author",
+          "doi": "10.1016/j.jacc.2026.02.4982"
+        },
+        {
+          "title": "Clinical Heterogeneity in Infective Endocarditis: Impact of Intravenous Drug Use on Patient Outcomes",
+          "meeting": "American College of Cardiology Scientific Session",
+          "year": "2026",
+          "role": "First author",
+          "doi": "10.1016/j.jacc.2026.02.2909"
+        },
+        {
+          "title": "Pneumonia’s Impact on Hospitalized Acute Myeloid Leukemia Patient Outcomes: A National Inpatient Sample Study 2015–2022",
+          "meeting": "American Society of Hematology Annual Meeting",
+          "year": "2025",
+          "venue": "Blood 2025;146(Suppl 1):6924",
+          "role": "First author",
+          "doi": "10.1182/blood-2025-6924"
+        },
+        {
+          "title": "Trends and Predictors of Inpatient Mortality in Patients With Aplastic Anemia: A 7-Year National Inpatient Sample Analysis",
+          "meeting": "American Society of Hematology Annual Meeting",
+          "year": "2025",
+          "venue": "Blood 2025;146(Suppl 1):6724",
+          "role": "First author",
+          "doi": "10.1182/blood-2025-6724"
+        },
+        {
+          "title": "Mortality Trends in Metabolic Syndrome and Colorectal, Endometrial, and Breast Cancers in the United States 1999–2020",
+          "meeting": "ASCO Annual Meeting",
+          "year": "2025",
+          "role": "First author",
+          "doi": "10.1200/JCO.2025.43.16_suppl.e13582"
+        },
+        {
+          "title": "Hematologic and Systemic Complications of Bispecific Antibodies: Insights From a National Inpatient Study",
+          "meeting": "ASCO Annual Meeting",
+          "year": "2025",
+          "role": "First author",
+          "doi": "10.1200/JCO.2025.43.16_suppl.e24121"
+        },
+        {
+          "title": "Interstitial Lung Disease in Systemic Autoimmune Diseases and In-Hospital Outcomes: A Nationwide Analysis",
+          "meeting": "American Thoracic Society International Conference",
+          "year": "2026",
+          "role": "Second author",
+          "doi": "10.1093/ajrccm/aamag162.2497"
+        },
+        {
+          "title": "Early Rhythm Versus Rate Control in Older Adults With Atrial Fibrillation: Evidence From the TriNetX Database",
+          "meeting": "Heart Rhythm Society",
+          "year": "2026",
+          "role": "Second author",
+          "note": "Subsequently published",
+          "doi": "10.1016/j.hrthm.2026.03.545"
+        },
+        {
+          "title": "Incidence and Predictors of Valvular Complications Following Transcatheter Aortic Valve Replacement in Aortic Regurgitation",
+          "meeting": "American College of Cardiology Scientific Session",
+          "year": "2025",
+          "role": "Second author",
+          "doi": "10.1016/S0735-1097(25)02745-7"
+        },
+        {
+          "title": "Complications in Sepsis With Right Heart Failure: How Echocardiography Can Help Predict and Manage Them",
+          "meeting": "American Society of Echocardiography Scientific Sessions",
+          "year": "2025",
+          "role": "Second author",
+          "doi": "10.1016/j.echo.2025.06.013",
+          "doi_label": "Supplement DOI"
+        },
+        {
+          "title": "Alcohol Use and Liver Cancer Mortality in the United States 1999–2020",
+          "meeting": "ASCO Annual Meeting",
+          "year": "2025",
+          "role": "Second author",
+          "doi": "10.1200/JCO.2025.43.16_suppl.e13535"
+        },
+        {
+          "title": "Real-World Outcomes and Toxicity Profiles of Bispecific Antibodies: A Nationwide Multiyear Study",
+          "meeting": "ASCO Annual Meeting",
+          "year": "2025",
+          "role": "Second author",
+          "doi": "10.1200/JCO.2025.43.16_suppl.e23053"
+        },
+        {
+          "title": "Diabetes Mellitus Transforms Gastroparesis Outcomes: A National Analysis of Mortality, Utilization, and Cost",
+          "meeting": "American College of Gastroenterology Annual Scientific Meeting",
+          "year": "2025",
+          "role": "Second author",
+          "doi": "10.14309/01.ajg.0001140228.50265.b2"
+        },
+        {
+          "title": "The Deadly Consequence of In-Hospital Infections in Acute and Subacute Liver Failure",
+          "meeting": "American College of Gastroenterology Annual Scientific Meeting",
+          "year": "2025",
+          "role": "Second author",
+          "doi": "10.14309/01.ajg.0001139016.66231.bd"
+        },
+        {
+          "title": "Sepsis in Acute Myeloid Leukemia: A 407,095-Patient National Inpatient Sample Study",
+          "meeting": "American Society of Hematology Annual Meeting",
+          "year": "2025",
+          "venue": "Blood 2025;146(Suppl 1):6922",
+          "role": "Second author",
+          "doi": "10.1182/blood-2025-6922"
+        },
+        {
+          "title": "National Trends in Deep Vein Thrombosis Hospitalizations With and Without Lymphoma",
+          "meeting": "American Society of Hematology Annual Meeting",
+          "year": "2025",
+          "venue": "Blood 2025;146(Suppl 1):8053",
+          "role": "Second author",
+          "doi": "10.1182/blood-2025-8053"
+        },
+        {
+          "title": "Efficacy and Safety of 10-Day Versus 14-Day Bismuth-Containing Quadruple Therapy for Helicobacter pylori Eradication",
+          "meeting": "American College of Gastroenterology Annual Scientific Meeting",
+          "year": "2024",
+          "role": "Second author",
+          "doi": "10.14309/01.ajg.0001038636.28541.0b"
+        },
+        {
+          "title": "Environmental Phthalate Exposure and Early-Onset Hypertension in Young Adults: The Role of Obesity and Metabolic Modulation",
+          "meeting": "American College of Cardiology Scientific Session",
+          "year": "2026",
+          "role": "Third author",
+          "doi": "10.1016/j.jacc.2026.02.535"
+        },
+        {
+          "title": "Effect of Plasmapheresis on Mortality and Length of Stay in Hospitalized Patients With Thrombotic Thrombocytopenic Purpura",
+          "meeting": "American Society of Hematology Annual Meeting",
+          "year": "2025",
+          "venue": "Blood 2025;146(Suppl 1):4888",
+          "role": "Third author",
+          "doi": "10.1182/blood-2025-4888"
+        },
+        {
+          "title": "Incidence and Predictors of Complications in Aortic Regurgitation Patients Undergoing Transcatheter Aortic Valve Replacement",
+          "meeting": "American College of Cardiology Scientific Session",
+          "year": "2025",
+          "role": "Third author",
+          "doi": "10.1016/S0735-1097(25)02701-9"
+        },
+        {
+          "title": "In-Hospital Outcomes of Hyponatremia in Non-Hodgkin Lymphoma: A 7-Year National Cohort Study",
+          "meeting": "American Society of Hematology Annual Meeting",
+          "year": "2025",
+          "venue": "Blood 2025;146(Suppl 1):8051",
+          "role": "Third author",
+          "doi": "10.1182/blood-2025-8051"
+        },
+        {
+          "title": "Evolving Burden of Acute Kidney Injury in Non-Hodgkin Lymphoma Hospitalizations",
+          "meeting": "American Society of Hematology Annual Meeting",
+          "year": "2025",
+          "venue": "Blood 2025;146(Suppl 1):8043",
+          "role": "Third author",
+          "doi": "10.1182/blood-2025-8043"
+        },
+        {
+          "title": "Clinical Outcomes and Predictors of Mortality in Essential Thrombocytosis With Concurrent Myocardial Infarction",
+          "meeting": "American Society of Hematology Annual Meeting",
+          "year": "2025",
+          "venue": "Blood 2025;146(Suppl 1):7343",
+          "role": "Third author",
+          "doi": "10.1182/blood-2025-7343"
+        },
+        {
+          "title": "Pre-Infection COVID-19 Vaccination and Long-Term Cardiovascular Outcomes in Adults Without Preexisting Cardiovascular Disease",
+          "meeting": "American College of Cardiology Scientific Session",
+          "year": "2026",
+          "role": "Co-author",
+          "note": "Subsequently published",
+          "doi": "10.1016/j.jacc.2026.02.439"
+        },
+        {
+          "title": "Global Trends in Epidemiology and Burden of Pulmonary Arterial Hypertension From 1990 to 2021",
+          "meeting": "American College of Cardiology Scientific Session",
+          "year": "2025",
+          "role": "Fourth author",
+          "doi": "10.1016/S0735-1097(25)02671-3"
+        },
+        {
+          "title": "Diagnostic Accuracy of Artificial Intelligence-Driven Echocardiography Versus Conventional Methods in Assessing Right Ventricular Function and Strain in Pulmonary Hypertension",
+          "meeting": "American Society of Echocardiography Scientific Sessions",
+          "year": "2025",
+          "role": "Co-author",
+          "doi": "10.1016/j.echo.2025.06.013",
+          "doi_label": "Supplement DOI"
+        },
+        {
+          "title": "Comparative Correlation Between Cardiac MRI and Echocardiography in Right Ventricular Dysfunction Assessment for Pulmonary Hypertension",
+          "meeting": "American Society of Echocardiography Scientific Sessions",
+          "year": "2025",
+          "role": "Co-author",
+          "doi": "10.1016/j.echo.2025.06.013",
+          "doi_label": "Supplement DOI"
+        },
+        {
+          "title": "Prognostic Value of Speckle Tracking Echocardiography Versus Conventional Echocardiography in Heart Failure",
+          "meeting": "American Society of Echocardiography Scientific Sessions",
+          "year": "2025",
+          "role": "Co-author",
+          "doi": "10.1016/j.echo.2025.06.013",
+          "doi_label": "Supplement DOI"
+        },
+        {
+          "title": "Temporal Mortality Trends of Substance-Induced Sudden Cardiac Death in the United States and Forecasts to 2030",
+          "meeting": "American College of Physicians Internal Medicine Meeting",
+          "year": "2025",
+          "role": "Poster finalist",
+          "doi": "",
+          "url": "https://abstracts.acponline.org/Abstract?id=141269",
+          "url_label": "ACP abstract"
+        },
+        {
+          "title": "Mortality Trends in Multiple Myeloma and Cardiovascular Disease in the United States 1999–2020",
+          "meeting": "ASCO Annual Meeting",
+          "year": "2025",
+          "role": "Fourth author",
+          "doi": "10.1200/JCO.2025.43.16_suppl.e23056"
+        },
+        {
+          "title": "Efficacy and Safety of Tocilizumab in Children With Juvenile Idiopathic Arthritis",
+          "meeting": "ACR Convergence",
+          "year": "2025",
+          "role": "Fifth author",
+          "doi": "",
+          "url": "https://acrabstracts.org/abstract/efficacy-and-safety-of-tocilizumab-in-children-with-juvenile-idiopathic-arthritis-a-systematic-review-and-meta-analysis/",
+          "url_label": "ACR abstract",
+          "venue": "Arthritis & Rheumatology 2025;77(Suppl 9):0312"
+        },
+        {
+          "title": "Obesity-Associated Cancer Mortality in the United States 1999–2020",
+          "meeting": "ENDO",
+          "year": "2025",
+          "role": "Featured abstract",
+          "doi": "10.1210/jendso/bvaf149.1234"
+        }
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "First Place, Mobile Photography",
+      "org": "Photowalk Katas Raj Temple, Ameer-ud-Din Medical College Arts and Photography Society",
+      "date": "Aug 2024"
+    },
+    {
+      "title": "Second Place, DSLR Photography",
+      "org": "Photowalk Katas Raj Temple, Ameer-ud-Din Medical College Arts and Photography Society",
+      "date": "Aug 2024"
+    },
+    {
+      "title": "Best Editor Award",
+      "org": "Intracollegiate Movie Competition, Ameer-ud-Din Dramatics Society",
+      "date": "Sep 2022"
+    },
+    {
+      "title": "Winner, Intracollegiate Debating Championship",
+      "org": "Debating Society of Ameer-ud-Din Medical College",
+      "date": "Dec 2021"
+    },
+    {
+      "title": "First Place, Mobile Photography",
+      "org": "Photowalk Kartarpur, Ameer-ud-Din Medical College Arts and Photography Society",
+      "date": "Jan 2020"
+    }
+  ],
+  "software": [
+    {
+      "name": "focus.nvm",
+      "role": "Developer",
+      "year": "2026",
+      "detail": "focus.nvm is an open-source, installable focus timer with configurable work and break sessions, ambient audio, offline support, session-history tracking, heatmaps, and CSV export.",
+      "links": [
+        {
+          "label": "Live application",
+          "url": "https://nvmnjm.github.io/focus-nvm/"
+        },
+        {
+          "label": "Source code",
+          "url": "https://github.com/nvmnjm/focus-nvm"
+        }
+      ]
+    }
+  ],
+  "news": [
+    {
+      "source": "LinkedIn",
+      "date": "August 1, 2026",
+      "sort": "2026-08-01",
+      "title": "Joined Yale University as a Postdoctoral Research Fellow",
+      "summary": "Najam announced on LinkedIn that he has joined Yale University as a Postdoctoral Research Fellow, working on metabolic dysfunction-associated steatotic liver disease (MASLD), one of the fastest-growing causes of liver cancer worldwide.",
+      "url": "https://www.linkedin.com/posts/najamgohar_happy-to-share-that-i-have-joined-yale-university-activity-7489477325294657536-rBZP",
+      "url_label": "View the post on LinkedIn"
+    },
+    {
+      "source": "Yale School of Medicine",
+      "date": "August 27, 2026",
+      "sort": "2026-08-27",
+      "title": "Welcome New Faculty, Staff, and Postdocs in the Yale Department of Internal Medicine (August 2026)",
+      "summary": "The Department of Internal Medicine welcomed its new faculty, staff, and postdoctoral associates and fellows for August 2026. The list includes Najam Gohar, MBBS, as a new postdoctoral fellow in the Section of Digestive Diseases.",
+      "url": "https://medicine.yale.edu/news-article/new-faculty-staff-internal-medicine-august-2026/",
+      "url_label": "Read on medicine.yale.edu"
+    }
+  ]
+}
